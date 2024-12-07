@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mmadrana@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I am getting fluent in Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
