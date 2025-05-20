@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Affan Rajput</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
@@ -37,3 +38,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mainmann&theme=tokyonight&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mainmann&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- <img src="https://github.com/user-attachments/assets/9586a4f6-d3ac-4859-b561-fc06baa2c79b" width="500" height="250" > --!>
