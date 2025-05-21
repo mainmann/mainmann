@@ -1,4 +1,5 @@
-
+<!-- <p align="center"></p> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <h1 align="center">Hi 👋, I'm Affan Rajput</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
