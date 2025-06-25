@@ -25,7 +25,7 @@
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,jquery,express,threejs,figma,obsidian,md,npm,git,github,nodejs,express,prisma,ps,pr,ai,postgres,supabase,mongodb,jest,postman,vscode,webstorm,vercel,vite,bash,linux,debian,ubuntu,kali,md,cloudflare,py,sklearn,flask,pycharm,docker,arduino,cpp)](myweb)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,jquery,express,threejs,figma,obsidian,npm,git,github,nodejs,prisma,ps,pr,ai,postgres,supabase,mongodb,jest,postman,vscode,webstorm,vercel,vite,bash,linux,debian,ubuntu,kali,md,cloudflare,py,sklearn,flask,pycharm,docker,arduino,cpp)](myweb)
 
 
 ### 💻  :
