@@ -6,7 +6,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mainmann&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🌱 I’m currently learning **Next.Js, React,js, Machine Learning,Devops**
+- 🌱 I’m currently learning **Next.Js, React,js, Machine Learning, Devops**
 
 - 💬 Ask me about **react**
 
