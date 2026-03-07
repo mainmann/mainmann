@@ -1,7 +1,7 @@
 <!-- <p align="center"></p> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=104&color=gradient&text=AFFAN%20RAJPUT&reversal=true&fontColor=F0F0F0&animation=fadeIn&fontAlign=50&fontAlignY=45&strokeWidth=1&descAlign=46&descSize=26&desc=Full%20Stack%20Developer&stroke=1B211A&descAlignY=90" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=104&color=gradient&text=AFFAN%20RAJPUT&reversal=true&fontColor=F0F0F0&animation=fadeIn&fontAlign=50&fontAlignY=47&strokeWidth=1&descAlign=46&descSize=26&desc=Full%20Stack%20Developer&stroke=1B211A&descAlignY=90" />
 </p>
 
 <p align="center">
