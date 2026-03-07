@@ -9,13 +9,13 @@
 </p>
 
 
-- 🌱 I’m currently learning **Next.Js, React,js, Machine Learning, Devops**
+- 🌱 I’m constantly learning **Next.Js, React,js, Machine Learning, Devops**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Node.js Ecosystem**
 
-- 📫 How to reach me **mmadrana@gmail.com**
+- 📫 How to reach me **supabro.epic@gmail.com**
 
-- ⚡ Fun fact **I am getting fluent in Python**
+- ⚡ **Btw I don't use linux Arch**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
