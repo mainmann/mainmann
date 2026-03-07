@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **supabro.epic@gmail.com**
 
-- ⚡ **Btw I don't use linux Arch**
+- ⚡ **Btw I don't use Arch linux**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
