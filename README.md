@@ -9,7 +9,7 @@
 </p>
 
 
-- 🌱 I’m constantly learning **Next.Js, React,js, Machine Learning, Devops**
+- 🌱 I’m learning **Next.Js, React,js, Machine Learning, Devops**
 
 - 💬 Ask me about **Node.js Ecosystem**
 
